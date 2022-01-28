@@ -7,7 +7,7 @@ node echo.js
 
 As result:
 ```bash
-⋊> ~/W/echo-node-server on master ⨯ node echo.js                                                                                                         66 ms  master
+# node echo.js                                                                                                         66 ms  master
 Server is running on http://localhost:8083
 ```
 ### Example
